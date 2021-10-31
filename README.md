@@ -1,2 +1,0 @@
-# alikhan12
-mysite
